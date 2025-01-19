@@ -1,2 +1,2 @@
 # Histoire-Cartographie
-Un site web sur l'histoire de la cartographie ?
+Un site web sur l'histoire de la cartographie 
